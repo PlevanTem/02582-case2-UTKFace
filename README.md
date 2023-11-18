@@ -5,5 +5,5 @@
 
 [![Watch the video](https://img.youtube.com/vi/tB8KjiyGbUw/hqdefault.jpg)](https://www.youtube.com/embed/tB8KjiyGbUw)
 
-[<img src="https://img.youtube.com/vi/APOPm01BVrk/hqdefault.jpg" width="600" height="300"
+[<img src="https://img.youtube.com/vi/tB8KjiyGbUw/hqdefault.jpg" width=100% height=auto
 />](https://www.youtube.com/embed/tB8KjiyGbUw)
