@@ -4,3 +4,7 @@
 
 [<img src="https://img.youtube.com/vi/tB8KjiyGbUw/hqdefault.jpg" width=100% height=auto
 />](https://www.youtube.com/embed/tB8KjiyGbUw)
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=tB8KjiyGbUw" target="_blank">
+ <img src="http://img.youtube.com/vi/tB8KjiyGbUw/mqdefault.jpg" alt="Watch the video" width="800" height="500" border="10" />
+</a>
